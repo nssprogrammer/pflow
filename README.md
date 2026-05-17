@@ -1,4 +1,4 @@
-# PFlow-T: When the Forward Process *Is* the Topology
+# PFlow-T: A Persistence-Driven Forward Process for Topology-Controlled Generation
 
 Reference implementation of **PFlow-T**, a generative model whose
 forward (noising) process is defined by the persistent homology of the
@@ -58,7 +58,7 @@ Paper: [arXiv link to be added on submission]
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pflow-t.git
+git clone https://github.com/nssprogrammer/pflow.git
 cd pflow-t
 pip install -r requirements.txt
 ```
@@ -250,10 +250,10 @@ covers $\beta_1 \in \{1, 2\}$.
 ## Citing this work
 
 ```
-@misc{khilar2025pflowt,
+@misc{khilar2026pflowt,
   author = {Khilar, Snigdha Chandan},
-  title  = {PFlow-T: When the Forward Process Is the Topology},
-  year   = {2025},
+  title  = {PFlow-T: A Persistence-Driven Forward Process for Topology-Controlled Generation},
+  year   = {2026},
   note   = {arXiv preprint [arXiv ID]},
 }
 ```
