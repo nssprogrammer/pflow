@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.Python
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env
+
+# Training outputs (large, regeneratable)
+runs/
+data/
+*.pt
+*.pkl
+*.ckpt
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Output / log artifacts
+*.log
+*.out
+
+# Jupyter
+.ipynb_checkpoints/
