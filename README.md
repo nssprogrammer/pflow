@@ -23,7 +23,7 @@ This repository reproduces the headline numbers from the paper:
 
 All numbers are mean across 5 evaluation seeds.
 
-Paper: [arXiv link to be added on submission]
+Paper: [https://arxiv.org/abs/2605.17555]
 
 ---
 
@@ -254,7 +254,7 @@ covers $\beta_1 \in \{1, 2\}$.
   author = {Khilar, Snigdha Chandan},
   title  = {PFlow-T: A Persistence-Driven Forward Process for Topology-Controlled Generation},
   year   = {2026},
-  note   = {arXiv preprint [arXiv ID]},
+  note   = {arXiv preprint [2605.17555]},
 }
 ```
 
